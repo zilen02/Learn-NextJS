@@ -1,0 +1,128 @@
+[
+    {
+        "level": "info",
+        "message": "Shadow updated for 0x10 0E",
+        "parameters": {
+            "payload": {
+                "state": {
+                    "reported": {
+                        "hvac": {
+                            "hvac0": {
+                                "temperature": 235
+                            }
+                        },
+                        "tN": "58BF2584B328",
+                        "connectivity": {
+                            "connected": true
+                        }
+                    }
+                }
+            },
+            "shadowName": "256",
+            "thingName": "ibisbarsha_001_001003_001323"
+        },
+        "rawPacket": "0010000e00081000fa000002030000000500eb00020000e169",
+        "requestId": "f9b32938-b8f0-5dfa-918a-75632d5d7a7a",
+        "response": {
+            "payload": {
+                "state": {
+                    "reported": {
+                        "hvac": {
+                            "hvac0": {
+                                "temperature": 235
+                            }
+                        },
+                        "tN": "58BF2584B328",
+                        "connectivity": {
+                            "connected": true
+                        }
+                    }
+                },
+                "metadata": {
+                    "reported": {
+                        "hvac": {
+                            "hvac0": {
+                                "temperature": {
+                                    "timestamp": 1675727729
+                                }
+                            }
+                        },
+                        "tN": {
+                            "timestamp": 1675727729
+                        },
+                        "connectivity": {
+                            "connected": {
+                                "timestamp": 1675727729
+                            }
+                        }
+                    }
+                },
+                "version": 16060,
+                "timestamp": 1675727729
+            }
+        }
+    },
+    {
+        "level": "info",
+        "message": "Shadow updated for 0x10 0E",
+        "parameters": {
+            "payload": {
+                "state": {
+                    "reported": {
+                        "hvac": {
+                            "hvac0": {
+                                "temperature": 233
+                            }
+                        },
+                        "tN": "58BF2584B328",
+                        "connectivity": {
+                            "connected": true
+                        }
+                    }
+                }
+            },
+            "shadowName": "256",
+            "thingName": "ibisbarsha_001_001003_001323"
+        },
+        "rawPacket": "0010000e00081000fa000002030000000500e90002000098a9",
+        "requestId": "fc64528c-23e6-51f0-a461-0ed7b1e67026",
+        "response": {
+            "payload": {
+                "state": {
+                    "reported": {
+                        "hvac": {
+                            "hvac0": {
+                                "temperature": 233
+                            }
+                        },
+                        "tN": "58BF2584B328",
+                        "connectivity": {
+                            "connected": true
+                        }
+                    }
+                },
+                "metadata": {
+                    "reported": {
+                        "hvac": {
+                            "hvac0": {
+                                "temperature": {
+                                    "timestamp": 1675726794
+                                }
+                            }
+                        },
+                        "tN": {
+                            "timestamp": 1675726794
+                        },
+                        "connectivity": {
+                            "connected": {
+                                "timestamp": 1675726794
+                            }
+                        }
+                    }
+                },
+                "version": 16056,
+                "timestamp": 1675726794
+            }
+        }
+    }
+]
